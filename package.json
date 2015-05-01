@@ -1,0 +1,17 @@
+{
+  "name": "image-magick-fonts",
+  "version": "0.1.0",
+  "description": "Generate a font list for ImageMagick",
+  "main": "generate-list",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewspencer/image-magick-fonts.git"
+  },
+  "author": "Matthew Spencer",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "wrench": "^1.5.8",
+    "xmlbuilder": "~2.4.4"
+  }
+}

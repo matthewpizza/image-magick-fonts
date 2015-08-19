@@ -2,7 +2,7 @@
   "name": "image-magick-fonts",
   "version": "0.1.0",
   "description": "Generate a font list for ImageMagick",
-  "main": "generate-list",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/matthewspencer/image-magick-fonts.git"
